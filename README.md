@@ -12,6 +12,6 @@ Como programador, soy competente en una variedad de tecnologías, incluyendo:
 Me destaco por mi capacidad de autonomía, trabajo en equipo, adaptabilidad, tolerancia, resolución de problemas, trabajo bajo presión, gestión del tiempo, productividad, creatividad constante y perfeccionismo.
 Contacto
 
-Puedes contactarme en [[LinkedIn](https://www.linkedin.com/in/santiago-cabral-6617bb2b3/)] y [Whatsapp](+54 9 381 413-1054).
+Puedes contactarme en [[LinkedIn](https://www.linkedin.com/in/santiago-cabral-6617bb2b3/)] (Whatsapp ==> +54 9 381 413-1054) (scsantiagocabral@gmail.com).
 
 ¡Gracias por visitar mi perfil!

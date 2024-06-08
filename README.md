@@ -46,16 +46,16 @@ Diseño y desarrollo de interfaces intuitivas y atractivas, enfocadas en la expe
 - HTML, CSS, JavaScript:
 Fundamentos sólidos en las tecnologías básicas del desarrollo web.
 
--Frameworks y Librerías:
+- Frameworks y Librerías:
 Experiencia con React, y Next.JS para construir aplicaciones web interactivas. Ademas de integrar librerias como TailwindCSS, y Bootstrap.
 
--Responsive Design:
+- Responsive Design:
 Diseño y desarrollo de sitios web que se adaptan a cualquier dispositivo
 
--Control de Versiones:
+- Control de Versiones:
 Uso de sistemas de control de versiones como Git y GitHub, para el seguimiento de cambios y la colaboración en equipo.
 
--IA & Code:
+- IA & Code:
 Trabajo en conjunto con modelos de Inteligencia Artificial para mejorar la productividad, implementar buenas prácticas y automatizar procesos.
 
 

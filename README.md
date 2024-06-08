@@ -17,29 +17,46 @@
 </div>
 
 
-<!--h2 without bottom border-->
+
+
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">Confusion is part of Programming</h2></summary>
+    <summary><h2 style="display: inline-block">Sobre mi</h2></summary>
   </ul>
 </div>
 
+Soy Santiago Cabral, un Desarrollador Web Full Stack dedicado, con experiencia en la conceptualización, diseño y lanzamiento de sitios web. 🛠️ Mis principales tecnologías son JavaScript, TypeScript, React, Next.js, Node.js, Express, y más. Me enfoco en crear interfaces de usuario que no solo sean intuitivas y accesibles, sino también claras y simplificadas, reflejando mi compromiso con la excelencia en el diseño.
 
-<!--Intro start-->
-- 🔭 I’m currently working on **AWS, React, React Native, Nodejs, MongoDB**
+Mi enfoque práctico y mis habilidades de comunicación, autonomía, trabajo en equipo, adaptabilidad, y resolución de problemas me han permitido ejecutar proyectos exitosos para una amplia gama de usuarios. 🚀 Estoy en una búsqueda constante de crecimiento profesional, ansioso por absorber nuevos conocimientos y aplicar mis habilidades interpersonales y técnicas hacia objetivos claros y tangibles, contribuyendo significativamente a productos que dejan una huella en el mercado.
 
-- 🌱 I’m currently learning **to put together multiple Hyper Beast Stack for Scalable Applications.**
 
-- ☁️ I've keen interest in cloud computing. So,I'm learning **AWS**
 
-- 📝 I regularly write articles on [Hashnode](https://1010nishant.hashnode.dev/)
 
-- 💬 Ask me about **AWS, react, react-native, nodejs, mongoDB**
 
-- 📫 Feel free to reach me out **nishantjangid6377@gmail.com**
+<!--h2 without bottom border-->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">Habilidades</h2></summary>
+  </ul>
+</div>
 
-- 🏠 Don't hesitate to drop me a **👋** on Discord –  [1010nishant](https://discordapp.com/users/957722095381540874) my username!
-<!--Intro end-->
+- UX/UI:
+Diseño y desarrollo de interfaces intuitivas y atractivas, enfocadas en la experiencia del usuario.
+
+- HTML, CSS, JavaScript:
+Fundamentos sólidos en las tecnologías básicas del desarrollo web.
+
+-Frameworks y Librerías:
+Experiencia con React, y Next.JS para construir aplicaciones web interactivas. Ademas de integrar librerias como TailwindCSS, y Bootstrap.
+
+-Responsive Design:
+Diseño y desarrollo de sitios web que se adaptan a cualquier dispositivo
+
+-Control de Versiones:
+Uso de sistemas de control de versiones como Git y GitHub, para el seguimiento de cambios y la colaboración en equipo.
+
+-IA & Code:
+Trabajo en conjunto con modelos de Inteligencia Artificial para mejorar la productividad, implementar buenas prácticas y automatizar procesos.
 
 
 

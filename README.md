@@ -40,22 +40,22 @@ Mi enfoque práctico y mis habilidades de comunicación, autonomía, trabajo en 
   </ul>
 </div>
 
-- UX/UI:
+- <b>UX/UI</b>:
 Diseño y desarrollo de interfaces intuitivas y atractivas, enfocadas en la experiencia del usuario.
 
-- HTML, CSS, JavaScript:
+- <b>HTML, CSS, JavaScript</b>:
 Fundamentos sólidos en las tecnologías básicas del desarrollo web.
 
-- Frameworks y Librerías:
+- <b>Frameworks y Librerías</b>:
 Experiencia con React, y Next.JS para construir aplicaciones web interactivas. Ademas de integrar librerias como TailwindCSS, y Bootstrap.
 
-- Responsive Design:
+- <b>Responsive Design</b>:
 Diseño y desarrollo de sitios web que se adaptan a cualquier dispositivo
 
-- Control de Versiones:
+- <b>Control de Versiones</b>:
 Uso de sistemas de control de versiones como Git y GitHub, para el seguimiento de cambios y la colaboración en equipo.
 
-- IA & Code:
+- <b>IA & Code</b>:
 Trabajo en conjunto con modelos de Inteligencia Artificial para mejorar la productividad, implementar buenas prácticas y automatizar procesos.
 
 
@@ -70,19 +70,9 @@ Trabajo en conjunto con modelos de Inteligencia Artificial para mejorar la produ
 
 - <b>Front-end</b>: React, Redux, Next.js, HTML5, CSS3, Tailwind CSS, UX/UI Design.
 
-- HTML, CSS, JavaScript:
-Fundamentos sólidos en las tecnologías básicas del desarrollo web.
+- <b>Back-end</b>: Node.js, Express, MongoDB, PostgreSql.
 
-- Frameworks y Librerías:
-Experiencia con React, y Next.JS para construir aplicaciones web interactivas. Ademas de integrar librerias como TailwindCSS, y Bootstrap.
+- <b>Herramientas</b>: Git, GitHub, Vercel, Slack.
 
-- Responsive Design:
-Diseño y desarrollo de sitios web que se adaptan a cualquier dispositivo
-
-- Control de Versiones:
-Uso de sistemas de control de versiones como Git y GitHub, para el seguimiento de cambios y la colaboración en equipo.
-
-- IA & Code:
-Trabajo en conjunto con modelos de Inteligencia Artificial para mejorar la productividad, implementar buenas prácticas y automatizar procesos.
 
 

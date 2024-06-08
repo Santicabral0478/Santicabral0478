@@ -60,3 +60,29 @@ Trabajo en conjunto con modelos de Inteligencia Artificial para mejorar la produ
 
 
 
+
+<!--h2 without bottom border-->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">Habilidades Tecnicas</h2></summary>
+  </ul>
+</div>
+
+- <b>Front-end</b>: React, Redux, Next.js, HTML5, CSS3, Tailwind CSS, UX/UI Design.
+
+- HTML, CSS, JavaScript:
+Fundamentos sólidos en las tecnologías básicas del desarrollo web.
+
+- Frameworks y Librerías:
+Experiencia con React, y Next.JS para construir aplicaciones web interactivas. Ademas de integrar librerias como TailwindCSS, y Bootstrap.
+
+- Responsive Design:
+Diseño y desarrollo de sitios web que se adaptan a cualquier dispositivo
+
+- Control de Versiones:
+Uso de sistemas de control de versiones como Git y GitHub, para el seguimiento de cambios y la colaboración en equipo.
+
+- IA & Code:
+Trabajo en conjunto con modelos de Inteligencia Artificial para mejorar la productividad, implementar buenas prácticas y automatizar procesos.
+
+
